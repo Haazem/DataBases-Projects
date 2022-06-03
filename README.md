@@ -1,6 +1,7 @@
 # DataBases-Projects-
 
 ***DataBase for a Company store information about its projects and employees in a database***
+***This DataBase has six columns (Employee,Department,Locations,Projeccts,Dependent,MyWork).***
 
 ## Steps of this DataBase Project 
 
